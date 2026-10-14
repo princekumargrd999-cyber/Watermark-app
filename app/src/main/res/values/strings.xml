@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Video Watermark</string>
+    <string name="subtitle">Set your watermark once. It is saved on this phone and works fully offline.</string>
+    <string name="step_icon">1. Your icon</string>
+    <string name="choose_icon">Choose icon</string>
+    <string name="step_text">2. Your text</string>
+    <string name="text_hint">Watermark text</string>
+    <string name="opacity_label">Text opacity: %1$d%%</string>
+    <string name="save_settings">Save settings</string>
+    <string name="select_video">Select video &amp; add watermark</string>
+    <string name="processing">Processing…</string>
+    <string name="processing_percent">Processing… %1$d%%</string>
+    <string name="cancel">Cancel</string>
+    <string name="done">Done! Saved in Movies/WatermarkApp</string>
+    <string name="share">Share video</string>
+    <string name="saved">Settings saved</string>
+    <string name="need_icon_or_text">Choose an icon or type some text first</string>
+    <string name="icon_failed">Could not load this image</string>
+    <string name="failed">Failed: %1$s</string>
+    <string name="save_failed">Could not save the video</string>
+</resources>
